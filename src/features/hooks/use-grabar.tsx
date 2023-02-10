@@ -7,5 +7,6 @@ export function useGrabar(a: number) {
   // display.innerHTML = a;
   displayArray.push(a, a, a, a, a, a, a, a, a);
   display.textContent = displayArray.join("");
-  buttonhang.classList.add("ocultar");
+  buttonhang.classList.add("ocultar")
+  ;
 }
