@@ -1,6 +1,13 @@
+import { Action } from "../../../features/call/components/action/action";
+import { Display } from "../../../features/call/components/display/display";
 import { Key } from "../../../features/call/components/key/key";
-import "./app.css";
 
 export function App() {
-  return <Key></Key>;
+  return (
+    <>
+      <Display></Display>
+      <Action></Action>
+      <Key></Key>
+    </>
+  );
 }

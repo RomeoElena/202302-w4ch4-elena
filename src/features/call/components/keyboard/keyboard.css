@@ -1,10 +1,20 @@
-/* .keyboard.container {
-} */
+* {
+  display: flex;
+  background-color: rgb(31, 20, 4);
+}
 
+.keyboard-container,
 .keyboard {
+  background-color: rgb(18, 136, 97);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* .keyboard {
   width: 213px;
   display: flex;
   flex-wrap: wrap;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
+  background-color: aquamarine;
+} */
