@@ -13,8 +13,7 @@ Aquí tienes la maquetación HTML/CSS de una aplicación, tendrás que programar
 6. Al pulsar el botón "Colgar", éste debe desaparecer y debe aparecer en su lugar el botón "Llamar". El teclado tiene que habilitarse. Además, se debe borrar el número de teléfono.
 7. Si no ocurre nada tras cinco segundos de llamada, ésta se debe colgar automáticamente.
 
-
-    Separa todo en los siguientes componentes:
+   Separa todo en los siguientes componentes:
 
 - Info
 - Display
@@ -24,7 +23,7 @@ Aquí tienes la maquetación HTML/CSS de una aplicación, tendrás que programar
 
   - Key
 
-  Listado de responsabilidades:
+  Listado de responsabilidades: (Foto en carpeta public)
 
   PINTAR-RECIBIR-INTERACTUAR
 
@@ -34,7 +33,3 @@ Aquí tienes la maquetación HTML/CSS de una aplicación, tendrás que programar
   2-Componentes - Display
   3-Componentes - Actions ------Action
   4-Componentes - Keyboard (Pin-----Key
-
-  Responsabilidades de los componentes: (Pintar, que recibe de algún sitio para que el usuario interactue)PINTAR-RECIBIR-INTERACTUAR
-
-Keyboard funciones
